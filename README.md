@@ -6,7 +6,7 @@ DAKboard is a customizable display for photos, calendar, news, weather and so mu
 See the <a href="https://github.com/dakboard/Cloud-Platform/discussions">Discussions</a> tab for open feature requests and to add your suggestion.
 
 ## Bug Issues
-Looking to report a bug, <a href="https://github.com/dakboard/Cloud-Platform/issues/new?assignees=&labels=bug&template=bug_report.md&title=">create an issue</a>.
+Looking to report a bug, <a href="https://github.com/Kyle-EIW/WallPen/issues/new">create an issue</a>.
 
 
 ## Support
