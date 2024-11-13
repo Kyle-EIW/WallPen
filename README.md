@@ -3,7 +3,7 @@
 This GitHub repository is meant for operators/users to keep track of issues as well as feature requests.
 
 ## Feature Requests
-See the <a href="https://github.com/Kyle-EIW/WallPen/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=">Discussions</a> see issues tab to track/submit new feature requests.
+See the <a href="https://github.com/Kyle-EIW/WallPen/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=">Issues</a> see issues tab to track/submit new feature requests.
 
 ## Bug Issues
 Looking to report a bug, <a href="https://github.com/Kyle-EIW/WallPen/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=">create an issue</a>.
