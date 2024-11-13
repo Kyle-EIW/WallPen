@@ -10,5 +10,3 @@ Looking to report a bug, <a href="https://github.com/Kyle-EIW/WallPen/issues/new
 
 ## More info
 - Visit <a href="https://hub.wallpen.com/home">https://hub.wallpen.com/home for more info.  
-- View the <a href="https://github.com/dakboard/Cloud-Platform/releases/">Release Notes</a> to see what features and functionality has been added recently.  
-- Check our <a href="https://blog.dakboard.com">Blog</a> for tips, tricks and the latest DAKboard news.
